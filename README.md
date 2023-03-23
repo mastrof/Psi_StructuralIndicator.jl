@@ -1,5 +1,5 @@
 # Psi_StructuralIndicator.jl
-Julia script to evaluate the structural indicator Ψ (defined in Foffi &amp; Sciortino, J Phys Chem B 2022).
+Julia script to evaluate the structural indicator Ψ (defined in Foffi &amp; Sciortino, _J. Phys. Chem. B_ 2023, 127, 1, 378–386).
 
 ## How to use
 After setting up a working Julia environment, install the required dependencies `DelimitedFiles` and `LightGraphs`
@@ -23,7 +23,9 @@ The evaluation is extremely simple and can be analyzed from the `psi.jl` script.
 ## Attribution
 If you use this script as a basis for your work including the structural indicator Ψ, please cite our publication
 
-Foffi, R. and Sciortino, F., "Correlated Fluctuations of Structural Indicators Close to The Liquid-Liquid Transition in Supercooled Water", **J. Phys. Chem. B** (...)
+Foffi, R. and Sciortino, F., "Correlated Fluctuations of Structural Indicators Close to The Liquid-Liquid Transition in Supercooled Water", _J. Phys. Chem. B_ 2023, 127, 1, 378–386)
+
+Open Access: https://doi.org/10.1021/acs.jpcb.2c07169
 
 ## Contact
 For any further inquiry, feel free to contact me at rfoffi@ethz.ch
